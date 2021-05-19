@@ -1,0 +1,10 @@
+body  .container {
+    margin:20px;
+    padding: 20px;
+    border-style: none;
+}
+
+.list-group-item {
+    border-style: none;
+    font-size: 16px;
+}
